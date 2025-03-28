@@ -55,12 +55,11 @@ Tenho uma sólida base de **desenvolvimento de APIs**, **integração de sistema
 
 <div align="center">
   <a href="https://github.com/raphael-aciardi">
-    <img src="https://github-readme-stats.vercel.app/api?username=raphael-aciardi&show_icons=true&theme=dark" alt="GitHub Stats">
+    <img height="250em" src="https://streak-stats.demolab.com?user=raphael-aciardi&theme=ayu-mirage&border_radius=20&exclude_days=Sun%2CSat&card_height=200" alt="GitHub Streak Stats">
   </a>
+  <br>  
   <br>
-  <a href="https://github.com/raphael-aciardi">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphael-aciardi&layout=compact&theme=dark" alt="Top Languages">
-  </a>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphael-aciardi&langs_count=7&theme=ayu-mirage&border_radius=20" alt="Top Languages">
 </div>
 
 ---
