@@ -1,7 +1,7 @@
 <h1 align="center">Raphael Aciardi Fabricio</h1>
 
 <p align="center">
-  <strong>Software Engineer | Developer | Lifelong Learner 🚀</strong>
+  <strong>Software Engineer | Full Stack Developer | Mobile & Web 🚀</strong>
 </p>
 
 <p align="center">
@@ -20,33 +20,41 @@
 
 ## 📌 Sobre Mim
 
-Sou um estudante apaixonado por tecnologia, atualmente cursando **Engenharia de Software** na **UniSagrado**. Meu foco principal está no **desenvolvimento back-end com C# e .NET**, mas estou constantemente buscando me aprimorar e expandir minhas habilidades para me tornar um desenvolvedor **full stack**.
+Sou um desenvolvedor movido pela curiosidade e pela busca constante por criar soluções úteis e inovadoras, cursando **Engenharia de Software na UniSagrado** e atuando com **manutenção e desenvolvimento de aplicações mobile em React Native** e **APIs em Node.js utilizando Express**.
 
-Tenho uma sólida base de **desenvolvimento de APIs**, **integração de sistemas**, e **manipulação de banco de dados** (principalmente **MySQL**). Estou muito interessado em **aprender novas tecnologias** e me manter atualizado com as melhores práticas do mercado.
+Tenho experiência prática com **integração de APIs**, **Firebase**, **manipulação de banco de dados**, **autenticação**, **versionamento com Git** e **sustentação de sistemas em produção**.
+
+Hoje meu foco está em evoluir como **desenvolvedor full stack**, com domínio de **JavaScript/TypeScript**, **React Native**, **Next.js** e **Node.js**, sempre buscando escrever código limpo, performático e escalável.
 
 ---
 
 ## 💻 Experiência
 
-- **Suporte Técnico** e **sustentação de aplicações** em **.NET**.
-- Desenvolvimento de **APIs RESTful** utilizando **C#** e **Entity Framework**.
-- **Consultoria e manipulação de banco de dados** com **MySQL** e geração de **relatórios personalizados** utilizando **SQL**.
-- Experiência com **Git** e **versionamento de código**.
-- Conhecimento básico em **React** e **Next.js** para desenvolvimento **front-end**.
+- 🚀 **Desenvolvimento e manutenção de aplicativos mobile** utilizando **React Native**.
+- 🔧 Sustentação e melhorias em **APIs Node.js** com **Express**.
+- 🛠️ Integração com **Firebase** (Auth, Firestore, Cloud Messaging).
+- 🗄️ Manipulação de banco de dados (SQL e NoSQL).
+- 🧪 Criação e manutenção de **endpoints RESTful**.
+- 🖥️ Suporte técnico e sustentação de aplicações.
+- 🗃️ Versionamento com **Git**, organização de branches e convenções de commits.
+- 🌐 Conhecimento em **Next.js** para aplicações web.
+- 📊 Relatórios e consultas avançadas com **SQL**.
 
-📚 **Objetivo:** Busco a minha **primeira vaga como desenvolvedor full stack júnior**, com foco no **back-end**, onde posso aplicar minhas habilidades em **C#**, **.NET**, e **MySQL**, enquanto continuo aprendendo e me aprimorando em novas tecnologias.
+🎯 **Objetivo:** Consolidar-me como **Full Stack Developer**, com foco no ecossistema **JavaScript/TypeScript (React Native, Node, Next)**, contribuindo para soluções performáticas e escaláveis.
 
 ---
 
 ## 🚀 Tecnologias & Ferramentas
 
 <div align="center">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=entityframework&logoColor=white" alt="Entity Framework">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </div>
 
 ---
@@ -57,15 +65,13 @@ Tenho uma sólida base de **desenvolvimento de APIs**, **integração de sistema
   <a href="https://github.com/raphael-aciardi">
     <img height="250em" src="https://streak-stats.demolab.com?user=raphael-aciardi&theme=ayu-mirage&border_radius=20&exclude_days=Sun%2CSat&card_height=200" alt="GitHub Streak Stats">
   </a>
-  <br>  
-  <br>
+  <br><br>
   <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphael-aciardi&langs_count=7&theme=ayu-mirage&border_radius=20" alt="Top Languages">
 </div>
 
 ---
 
-## 📢 **"A jornada do aprendizado nunca acaba!"** 🚀
+## 📢 **"A jornada do aprendizado nunca acaba."** 🚀
 
----
+> Sempre aberto para novas oportunidades, conexões e projetos. Vamos conversar!
 
-> **Nota:** Estou sempre em busca de novos desafios e oportunidades de aprender. Fique à vontade para entrar em contato para discutir possíveis colaborações, oportunidades ou apenas para trocar ideias sobre tecnologia!
